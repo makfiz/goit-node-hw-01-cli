@@ -1,4 +1,4 @@
-### node index.js -a list
+### node index.js --action list
 
 ![Get list](https://imgur.com/KRCZwDp.png)
 
