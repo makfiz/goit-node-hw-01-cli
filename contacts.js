@@ -16,7 +16,7 @@ async function writeDB(db) {
 
 async function listContacts() {
     try {
-       await readDb()
+       return await readDb()
     } catch (err) {
         console.log(err)
     }
