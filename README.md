@@ -1,3 +1,4 @@
-![Get list](https://imgur.com/KRCZwDp)
-![Remove by id](https://imgur.com/vjKZZZC)
-![Get by id](https://imgur.com/IWnVRKR) ![Add](https://imgur.com/QnPMSza)
+![Get list](https://imgur.com/KRCZwDp.png).
+![Remove by id](https://imgur.com/vjKZZZC.png).
+![Get by id](https://imgur.com/IWnVRKR.png).
+![Add](https://imgur.com/QnPMSza.png).
