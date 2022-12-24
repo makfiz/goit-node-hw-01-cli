@@ -1,6 +1,6 @@
 const contacts = require("./contacts")
 const { Command } = require("commander");
-// contacts.addContact('Maksym', "makfiz@gmail.com", "+380976558998")
+
 const program = new Command();
 program
   .option("-a, --action <type>", "choose action")
